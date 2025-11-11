@@ -1,2 +1,3 @@
 # SuperTeamPortofilio-ManPro
-Repository praktek Manajemen Proyek tim membuat web html berisi portofolio tiap anggota
+Repository praktek Manajemen Proyek tim,
+membuat web HTML dan CSS berisi portofolio tiap anggota
